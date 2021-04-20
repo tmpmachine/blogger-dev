@@ -15,8 +15,12 @@ Resulted in Month (short) and day format. e.g. `Aug 05`.
 # Known date format
 format | Description | result
 ---|---|---
+MMMM | Month (full) | August
 MMM | Month (short) | Aug
-dd | Day | 05
+MM | Month (2 digit) | 07
+m | Month (no leading zero) | 7
+dd | Day (2 digit) | 05
+d | Day (no leading zero) | 5
 YYY | Full year | 2020
 
 <br>
