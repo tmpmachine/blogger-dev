@@ -22,6 +22,7 @@ m | Month (no leading zero) | 7
 dd | Day (2 digit) | 05
 d | Day (no leading zero) | 5
 YYY | Full year | 2020
+YY | Year (2 digit) | 20
 
 <br>
 
