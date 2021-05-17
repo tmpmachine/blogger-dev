@@ -21,8 +21,8 @@ MM | Month (2 digit) | 07
 m | Month (no leading zero) | 7
 dd | Day (2 digit) | 05
 d | Day (no leading zero) | 5
-YYY | Full year | 2020
-YY | Year (2 digit) | 20
+YYY | Full year | 2021
+YY | Year (last 2 digit) | 21
 
 <br>
 
