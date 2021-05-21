@@ -13,16 +13,16 @@ Resulted in in *iso8601* formatted timestamp. e.g. `2020-08-28T18:15:00+07:00`.
 Resulted in Month (short) and day format. e.g. `Aug 05`.
 
 # Known date format
-format | Description | result
----|---|---
-MMMM | Month (full) | August
-MMM | Month (short) | Aug
-MM | Month (2 digit) | 07
-m | Month (no leading zero) | 7
-dd | Day (2 digit) | 05
-d | Day (no leading zero) | 5
-YYY | Full year | 2021
-YY | Year (last 2 digit) | 21
+format | Description             | result
+---    |---                      |---
+MMMM   | Month (full)            | August
+MMM    | Month (short)           | Aug
+MM     | Month (2 digit)         | 07
+m      | Month (no leading zero) | 7
+dd     | Day (2 digit)           | 05
+d      | Day (no leading zero)   | 5
+YYY    | Full year               | 2021
+YY     | Year (last 2 digit)     | 21
 
 <br>
 
